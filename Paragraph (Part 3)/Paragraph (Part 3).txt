@@ -112,6 +112,7 @@ or spending time with friends and family.
 Pause the video while you find the detail sentence
 that does not belong.
 Now let's check our answers.
+
 Question one, which detail sentence
 does not belong in this paragraph?
 The answer is A, this is why soda is so delicious.
@@ -132,6 +133,7 @@ Sentences B and C both do give reasons
 that people shouldn't drink soda,
 so those sentences belong in the paragraph.
 A does not belong.
+
 Question two, which detail sentence
 does not belong in this paragraph?
 The answer is C.
@@ -150,6 +152,7 @@ not to own a fish, so that sentence doesn't belong.
 Sentences A and B both do give us reasons
 why the best pet to own is a fish,
 so those sentences do belong in the paragraph.
+
 Question three, which detail sentence
 does not belong in this paragraph?
 The answer is B, however, many video games are not violent.
@@ -163,6 +166,7 @@ should not play video games,
 but sentence B actually gives a reason
 that it might be okay to play video games,
 so B doesn't belong.
+
 Sentences A and C do give us reasons
 that children should not play video games,
 so those sentences do belong in the paragraph.
@@ -175,6 +179,7 @@ B, one reason is because dogs are friendly.
 Is A a topic sentence or a detail sentence?
 And what about B, is it a topic sentence
 or a detail sentence?
+
 Number two, A, broccoli has iron and vitamin K.
 B, vegetables are healthy.
 Number three, A, biologists study living organisms,
@@ -193,6 +198,7 @@ so detail sentence B, one reason is because dogs
 are friendly, gives us a reason
 that the topic sentence A is true.
 It gives us a reason why the best pet is a dog.
+
 Number two, A is a detail sentence
 and B is a topic sentence.
 Why?
@@ -200,6 +206,7 @@ Because detail sentence A, broccoli has iron
 and vitamin K, this gives us an example
 that helps explain the topic sentence, B,
 that vegetables are healthy.
+
 Number three, A is a topic sentence
 and B is a detail sentence.
 Why?
@@ -209,6 +216,7 @@ and detail sentence B gives us an example
 of an organism that biologists study.
 Detail sentence B says, one organism
 biologists study is cells.
+
 Number four, A is a topic sentence
 and B is a detail sentence.
 How do we know that's correct?
