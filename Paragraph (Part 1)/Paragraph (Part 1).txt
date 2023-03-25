@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 test Today we're going to learn about paragraphs.
+=======
+testToday we're going to learn about paragraphs.
+>>>>>>> 06240f62a9cd668d4f958b81aa5519c564e6b2f8
 This is part 1. What is a paragraph?
 You can watch the video and use the worksheet to take notes in practice while you listen.
 So what is a paragraph?
